@@ -1,5 +1,9 @@
 # Inventory-MS
 A web-based application designed to streamline inventory management processes for businesses of all sizes. This system offers real-time stock tracking, order management, and supplier management to enhance operational efficiency.
+
+Web Link:- https://boisterous-bubblegum-73b049.netlify.app/
+
+
 <img width="953" alt="Screenshot 2025-01-21 173013" src="https://github.com/user-attachments/assets/300f2ade-4e61-453f-bc13-1c2e188bc478" />
 
 <img width="956" alt="Screenshot 2025-01-21 173031" src="https://github.com/user-attachments/assets/6534717b-fb23-490e-b947-011d0ed70d98" />
