@@ -3,6 +3,14 @@ A web-based application designed to streamline inventory management processes fo
 
 Web Link:- https://boisterous-bubblegum-73b049.netlify.app/
 
+## ✨ Features
+- **Real-Time Inventory Updates**: Monitor stock levels in real time and get notified of low-stock items.
+- **Order Management**: Manage purchase orders, track shipments, and update order statuses.
+- **Supplier Management**: Maintain detailed records of suppliers and their contacts.
+- **Role-Based Access Control**: Secure user authentication with different access levels for admins, staff, and managers.
+- **Analytics & Reporting**: Generate detailed reports on stock movement, sales trends, and more.
+- **Responsive Design**: Fully optimized for use on desktops, tablets, and mobile devices.
+
 
 <img width="953" alt="Screenshot 2025-01-21 173013" src="https://github.com/user-attachments/assets/300f2ade-4e61-453f-bc13-1c2e188bc478" />
 
